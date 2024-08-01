@@ -1,0 +1,236 @@
+Arbeit,die,Noun,праця,arbeiten,працювати,arbeitend,працюючий
+Auto,das,Noun,автомобіль,fahren,їздити,automobil,автомобільний
+Haus,das,Noun,будинок,wohnen,жити,häuslich,домашній
+Schule,die,Noun,школа,lernen,вчитися,schulisch,шкільний
+Stuhl,der,Noun,стілець,setzen,сідати,stuhlartig,стілецьний
+Tisch,der,Noun,стіл,essen,їсти,tischartig,стільний
+Fenster,das,Noun,вікно,öffnen,відкривати,fensterartig,віконний
+Buch,das,Noun,книга,lesen,читати,buchartig,книжковий
+Küche,die,Noun,кухня,kochen,готувати,küchlich,кухонний
+Garten,der,Noun,сад,pflanzen,садити,gärtnerisch,садовий
+Hund,der,Noun,собака,laufen,бігти,hundeartig,собачий
+Katze,die,Noun,кішка,spielen,іграти,katzenartig,кішачий
+Vogel,der,Noun,птиця,fliegen,літати,vogelartig,пташиний
+Blume,die,Noun,квітка,blühen,цвісти,blumig,квітковий
+Brot,das,Noun,хліб,essen,їсти,brotartig,хлібний
+Apfel,der,Noun,яблуко,essen,їсти,apfelig,яблучний
+Kuchen,der,Noun,пиріг,essen,їсти,kuchenartig,пиріжковий
+Arzt,der,Noun,лікар,untersuchen,обстежувати,ärztlich,лікарський
+Krankenhaus,das,Noun,лікарня,behandeln,лікувати,krankenhausartig,лікарняний
+Apotheke,die,Noun,аптека,verkaufen,продавати,apothekarisch,аптечний
+Werkstatt,die,Noun,майстерня,reparieren,ремонтувати,werkstattartig,майстеренний
+Wohnzimmer,das,Noun,вітальня,entspannen,відпочивати,wohnzimmerartig,вітальняний
+Schlafzimmer,das,Noun,спальня,schlafen,спати,schlafzimmerartig,спальний
+Badezimmer,das,Noun,ванна кімната,duschen,душитися,badezimmerartig,ванний
+Markt,der,Noun,ринок,verkaufen,продавати,marktartig,ринковий
+Geschäft,das,Noun,бізнес,arbeiten,працювати,geschäftlich,бізнесовий
+Firma,die,Noun,фірма,managen,керувати,firmenartig,фірмовий
+Projekt,das,Noun,проект,planen,планувати,projektartig,проектний
+Mensch,der,Noun,людина,leben,жити,menschlich,людський
+Tier,das,Noun,тварина,leben,жити,tierisch,тваринний
+Farbe,die,Noun,колір,malen,малювати,farblich,колірний
+Licht,das,Noun,світло,leuchten,світити,lichtartig,світловий
+Lärm,der,Noun,шум,stören,турбувати,lärmend,шумний
+Geräusch,das,Noun,звук,hören,слухати,geräuschlich,звуковий
+Stille,die,Noun,тиша,genießen,насолоджуватися,still,тихий
+Ruhe,die,Noun,спокій,finden,знаходити,ruhig,спокійний
+Berge,die,Noun,гори,wandern,брести,bergig,гірський
+Meer,das,Noun,море,schwimmen,плавати,meerartig,морський
+Fluss,der,Noun,річка,fließen,текти,flussartig,річковий
+Wald,der,Noun,ліс,wandern,брести,waldig,лісовий
+Stadtpark,der,Noun,міський парк,spazieren,гуляти,stadtparkartig,міський парковий
+Mühle,die,Noun,млин,mahlen,молоти,mühlenartig,млиновий
+Flughafen,der,Noun,аеропорт,fliegen,літати,flughafenartig,аеропортний
+S-Bahn,die,Noun,міська електричка,fahren,їздити,s-bahnartig,міська електричка
+Zug,der,Noun,потяг,fahren,їздити,zugartig,потягний
+Bus,der,Noun,автобус,fahren,їздити,busartig,автобусний
+Büro,das,Noun,офіс,arbeiten,працювати,büroartig,офісний
+Sekretär,der,Noun,секретар,organisieren,організовувати,sekretärlich,секретарський
+Telefon,das,Noun,телефон,anrufen,дзвонити,telefonisch,телефонний
+Computer,der,Noun,комп'ютер,arbeiten,працювати,computerartig,комп'ютерний
+Internet,das,Noun,інтернет,surfen,серфити,internetartig,інтернетний
+E-Mail,die,Noun,електронна пошта,schicken,надсилати,e-mailartig,електронний
+Tagebuch,das,Noun,щоденник,schreiben,писати,tagebuchartig,щоденниковий
+Kamera,die,Noun,камера,fotografieren,фотографувати,kamerartig,камерний
+Geld,das,Noun,гроші,ausgeben,витрачати,geldlich,грошовий
+Kreditkarte,die,Noun,кредитна картка,bezahlen,оплачувати,kreditkartenartig,кредитна картка
+Rechnung,die,Noun,рахунок,bezahlen,оплачувати,rechnungsartig,рахунковий
+Geschichte,die,Noun,історія,erforschen,досліджувати,geschichtlich,історичний
+Länder,die,Noun,країни,reisen,подорожувати,ländlich,сільський
+Musik,die,Noun,музика,hören,слухати,musikalisch,музичний
+Film,der,Noun,фільм,schauen,дивитися,filmisch,кінематографічний
+Theater,das,Noun,театр,sehen,дивитися,theatralisch,театральний
+Kunst,die,Noun,мистецтво,schaffen,творити,künstlerisch,мистецький
+Bild,das,Noun,картина,malen,малювати,bildlich,образний
+Foto,das,Noun,фото,aufnehmen,знімати,fotografisch,фотографічний
+Kino,das,Noun,кіно,sehen,дивитися,kinoartig,кінематографічний
+Konzert,das,Noun,концерт,hören,слухати,konzertartig,концертний
+Ausstellung,die,Noun,виставка,bes besuchen,відвідувати,ausstellungartig,виставковий
+Messe,die,Noun,ярмарок,bes besuchen,відвідувати,messeartig,ярмарковий
+Freizeit,die,Noun,вільний час,genießen,насолоджуватися,freizeitartig,вільний час
+Hobby,das,Noun,хобі,betreiben,займатися,hobbyartig,хобійний
+Spiel,das,Noun,гра,spielen,грати,spielerisch,ігровий
+Sport,der,Noun,спорт,treiben,займатися,sportlich,спортивний
+Ball,der,Noun,м'яч,werfen,кидати,ballartig,м'ячний
+Fahrrad,das,Noun,велосипед,fahren,їздити,fahrradartig,велосипедний
+Straße,die,Noun,вулиця,überqueren,перетинати,straßenartig,вуличний
+Brücke,die,Noun,міст,überqueren,перетинати,brückenartig,містовий
+Ampel,die,Noun,світлофор,beachten,дотримуватись,ampelartig,світлофорний
+Fußgänger,der,Noun,пішохід,gehen,іти,fußgängerisch,пішохідний
+Zebrastreifen,der,Noun,пішохідний перехід,überqueren,перетинати,zebrastreifenartig,пішохідний перехід
+Schild,das,Noun,знак,zeigen,показувати,schildartig,знаковий
+Kleidung,die,Noun,одяг,tragen,носити,kleidungsartig,одягний
+Schuh,der,Noun,взуття,tragen,носити,schuhartig,взуттєвий
+Tasche,die,Noun,сумка,tragen,носити,taschenartig,сумковий
+Brille,die,Noun,окуляри,tragen,носити,brillenartig,окулярний
+Uhr,die,Noun,годинник,tragen,носити,uhrartig,годинниковий
+Schmuck,der,Noun,прикраси,tragen,носити,schmuckartig,прикрасовий
+Bank,die,Noun,банк,sparen,зберігати,bankartig,банківський
+Geldautomat,der,Noun,банкомат,abheben,знімати,geldautomatenartig,банкоматний
+Konto,das,Noun,рахунок,eröffnen,відкривати,kontenartig,рахунковий
+Laden,der,Noun,магазин,kaufen,купувати,ladenartig,магазинний
+Supermarkt,der,Noun,супермаркет,einkaufen,купувати,supermarktartig,супермаркетний
+Apotheker,der,Noun,аптекар,verkaufen,продавати,apothekerartig,аптечний
+Arztpraxis,die,Noun,кабінет лікаря,besuchen,відвідувати,arztpraxisartig,кабінетний
+Zahnarzt,der,Noun,стоматолог,behandeln,лікувати,zahnärztlich,стоматологічний
+Zahnklinik,die,Noun,стоматологічна клініка,besuchen,відвідувати,zahnklinisch,стоматологічний
+Verkehr,der,Noun,транспорт,fahren,їздити,verkehrlich,транспортний
+Haltestelle,die,Noun,зупинка,warten,чекати,haltestellenartig,зупинковий
+Buchhandlung,die,Noun,книжковий магазин,kaufen,купувати,buchhandlungsartig,книжковий
+Stadt,die,Noun,місто,leben,жити,städtisch,міський
+Dorf,das,Noun,село,wohnen,жити,dörflich,сільський
+Land,das,Noun,країна,leben,жити,ländlich,сільський
+Staat,der,Noun,держава,regieren,керувати,staatlich,державний
+Regierung,die,Noun,уряд,leiten,керувати,regierungsartig,урядовий
+Politik,die,Noun,політика,gestalten,формувати,politisch,політичний
+Wahl,die,Noun,вибори,abstimmen,голосувати,wählerisch,виборчий
+Gesetz,das,Noun,закон,erlassen,приймати,gesetzlich,законний
+Recht,das,Noun,право,anwenden,застосовувати,rechts,правовий
+Freiheit,die,Noun,свобода,genießen,насолоджуватися,frei,свободний
+Gerechtigkeit,die,Noun,справедливість,suchen,шукати,gerecht,справедливий
+Energie,die,Noun,енергія,nutzen,використовувати,energetisch,енергетичний
+Strom,der,Noun,електрика,fließen,текти,stromartig,електричний
+Wasser,das,Noun,вода,trinken,пити,wasserartig,водний
+Luft,die,Noun,повітря,atmen,дихати,lufthaltig,повітряний
+Erde,die,Noun,земля,berühren,торкатися,erdig,земляний
+Natur,die,Noun,природа,erleben,переживати,natürlich,природний
+Umwelt,die,Noun,середовище,schützen,захищати,umweltfreundlich,екологічний
+Klima,das,Noun,клімат,beeinflussen,впливати,klimatisch,кліматичний
+Waldbrand,der,Noun,лісовий пожежа,ausbrechen,спалахнути,waldbrandartig,лісовий
+Hurrikan,der,Noun,ураган,verursachen,спричиняти,hurrikanartig,ураганний
+Erdbeben,das,Noun,землетрус,auslösen,викликати,erdbebenartig,землетрусний
+Vulkan,der,Noun,вулкан,ausbrechen,вивергатися,vulkanisch,вулканічний
+Sonne,die,Noun,сонце,scheinen,світити,sonnig,сонячний
+Mond,der,Noun,місяць,leuchten,світити,mondartig,місячний
+Stern,der,Noun,зірка,leuchten,світити,sternartig,зірковий
+Galaxie,die,Noun,галактика,existieren,існувати,galaktisch,галактичний
+Universum,das,Noun,всесвіт,umfassen,охоплювати,universell,універсальний
+Lichtjahr,das,Noun,світловий рік,entsprechen,відповідати,lichtjahrlich,світловий рік
+Raum,der,Noun,простір,erforschen,досліджувати,räumlich,просторовий
+Zeit,die,Noun,час,vergehen,минати,zeitlich,часовий
+Vergangenheit,die,Noun,минуле,erinnern,пам'ятати,vergangen,минулий
+Gegenwart,die,Noun,теперішній час,erleben,переживати,gegenwärtig,теперішній
+Zukunft,die,Noun,майбутнє,planen,планувати,zukünftig,майбутній
+Jahr,das,Noun,рік,vergehen,минати,jährlich,річний
+Monat,der,Noun,місяць,vergehen,минати,monatlich,місячний
+Woche,die,Noun,тиждень,vergehen,минати,wöchentlich,тижневий
+Tag,der,Noun,день,vergehen,минати,täglich,щоденний
+Stunde,die,Noun,година,vergehen,минати,stündlich,годинниковий
+Minute,die,Noun,хвилина,vergehen,минати,minütlich,хвилинний
+Sekunde,die,Noun,секунда,vergehen,минати,sekündlich,секундний
+Mensch,der,Noun,людина,leben,жити,menschlich,людський
+Gesicht,das,Noun,обличчя,sehen,бачити,gesichtig,особистий
+Augen,die,Noun,очі,sehen,бачити,augenblicklich,мгновений
+Haar,das,Noun,волосся,frisieren,чистити,härlich,волосистий
+Mund,der,Noun,рот,essen,їсти,mündlich,усний
+Hand,die,Noun,рука,greifen,хапати,händisch,ручний
+Fuß,der,Noun,нога,gehen,йти,fußläufig,пішохідний
+Kopf,der,Noun,голова,denken,думати,köpfig,головний
+Körper,der,Noun,тіло,trainieren,тренувати,körperlich,фізичний
+Herz,das,Noun,серце,schlagen,битися,herzlich,сердечний
+Lunge,die,Noun,легені,atmen,дихати,lungenartig,легеневий
+Magen,der,Noun,шлунок,verdauen,перетравлювати,magenfreundlich,шлунковий
+Leber,die,Noun,печінка,entgiften,детоксикувати,leberartig,печінковий
+Niere,die,Noun,нире,filtern,фільтрувати,niereartig,нировий
+Blut,das,Noun,кров,fließen,текти,blutig,кров'яний
+Schmerz,der,Noun,боліти,empfinden,відчувати,schmerzhaft,болісний
+Gesundheit,die,Noun,здоров'я,pflegen,дбати,gesund,здоровий
+Krankheit,die,Noun,хвороба,heilen,лікувати,krank,хворий
+Arzt,der,Noun,лікар,untersuchen,обстежувати,ärztlich,лікарський
+Krankenhaus,das,Noun,лікарня,behandeln,лікувати,krankenhausartig,лікарняний
+Medizin,die,Noun,медицина,einnehmen,вживати,medizinisch,медичний
+Therapie,die,Noun,терапія,anordnen,призначати,therapeutisch,терапевтичний
+Rezept,das,Noun,рецепт,verschreiben,прописувати,rezeptiv,рецептурний
+Spritze,die,Noun,ін'єкція,verabreichen,вводити,spritzen,ін'єкційний
+Pille,die,Noun,пігулка,einnehmen,приймати,pillenartig,пігулковий
+Krankenversicherung,die,Noun,медичне страхування,absichern,захищати,krankenversichert,страховий
+Gesundheitswesen,das,Noun,система охорони здоров'я,organisieren,організувати,gesundheitsorientiert,орієнтований на здоров'я
+Notfall,der,Noun,невідкладний випадок,reagieren,реагувати,notfallartig,невідкладний
+Schild, das,Noun,щит,schützen,захищати,schildartig,щитоподібний
+Schulter,die,Noun,плече,tragen,носити,schulterisch,плечовий
+Ellbogen,der,Noun,лікоть,beugen,згинати,ellbogenartig,лікотьоподібний
+Handgelenk,das,Noun,зап'ястя,biegen,гнути,handgelenklich,зап'ястяний
+Finger,der,Noun,палець,zeigen,показувати,fingerartig,пальцевий
+Nagel,der,Noun,ніготь,schneiden,різати,nagelartig,нігтьовий
+Zunge,die,Noun,язик,speichern,зберігати,zungig,язиковий
+Lippen,die,Noun,губи,bewegen,рухати,lippig,губний
+Hals,der,Noun,шиї,tragen,носити,halsartig,шиїний
+Kinn,das,Noun,підборіддя,stützen,підтримувати,kinnartig,підборіддяний
+Rücken,der,Noun,спина,stützen,підтримувати,rückenartig,спинний
+Bauch,der,Noun,живіт,essen,їсти,bäuchig,животний
+Gesäß,das,Noun,сідниці,sitzen,сидіти,gesäßig,сідничний
+Hüfte,die,Noun,талія,drehen,крутити,hüftig,талійний
+Oberschenkel,der,Noun,стегно,beugen,згинати,oberschenkelig,стегновий
+Wade,die,Noun,ікра,laufen,бігти,wadig,ікраний
+Knöchel,der,Noun,щиколотка,beugen,згинати,knöchelig,щиколотковий
+Ferse,die,Noun,п'ятка,drücken,тиснути,ferse,п'ятковий
+Zehe,die,Noun,палець ноги,beugen,згинати,zehenartig,пальцевий
+Stirn,die,Noun,чоло,runzeln,морщити,stirnartig,чолоподібний
+Nase,die,Noun,ніс,riechen,нюхати,nasig,нісний
+Augenbraue,die,Noun,брова,ziehen,тягнути,augenein,бровний
+Augapfel,der,Noun,очне яблуко,sehen,бачити,augapfelig,очний
+Wimper,die,Noun,вії,schützen,захищати,wimperartig,війний
+Schläfe,die,Noun,скроня,fühlen,відчувати,schläfisch,скроневий
+Wange,die,Noun,щока,drücken,тиснути,wangenartig,щоковий
+Ohr, das, Noun, вухо, hören, слухати, ohrig, вушний
+Gegenzahn, der, Noun, протилежний зуб, beißen, кусати, gegen-zahnig, протилежний зубний
+Kiefer, der, Noun, щелепа, kauen, жувати, kieferartig, щелепний
+Zahn, der, Noun, зуб, putzen, чистити, zahnig, зубний
+Schneidezahn, der, Noun, різець, schneiden, різати, schneidezahnig, різцевий
+Eckzahn, der, Noun, ікло, beißen, кусати, eckzahnig, ікловий
+Backenzahn, der, Noun, корінний зуб, mahlen, молоти, backenzahnig, корінний зубний
+Rachen, der, Noun, глотка, schlucken, ковтати, rachenartig, глотковий
+Zäpfchen, das, Noun, язичок (в горлі), hängen, висіти, zäpfchenartig, язичковий
+Kinnlade, die, Noun, нижня щелепа, öffnen, відкривати, kinnladig, нижньощелепний
+Stirnbein, das, Noun, лобова кістка, unterstützen, підтримувати, stirnbeinig, лобовий
+Schambein, das, Noun, лобкова кістка, schützen, захищати, schambeinig, лобковий
+Becken, das, Noun, таз, stützen, підтримувати, beckenartig, тазовий
+Wirbelsäule, die, Noun, хребет, stützen, підтримувати, wirbelsäulig, хребетний
+Rippen, die, Noun, ребра, schützen, захищати, rippenartig, ребровий
+Schambein, das, Noun, лобкова кістка, stützen, підтримувати, schambeinig, лобковий
+Muskeln, die, Noun, м'язи, dehnen, розтягувати, muskulär, м'язовий
+Sehne, die, Noun, сухожилля, ziehen, тягнути, sehnenartig, сухожильний
+Nerv, der, Noun, нерв, fühlen, відчувати, nervös, нервовий
+Ader, die, Noun, судина, transportieren, транспортувати, aderig, судинний
+Arterie, die, Noun, артерія, pumpen, качати, arterienartig, артеріальний
+Vene, die, Noun, вена, fließen, текти, venenartig, венозний
+Kapillare, die, Noun, капіляр, durchdringen, проникати, kapillar, капілярний
+Herz, das, Noun, серце, schlagen, битися, herzhaft, серцевий
+Lunge, die, Noun, легені, atmen, дихати, lungenartig, легеневий
+Leber, die, Noun, печінка, verarbeiten, обробляти, leberartig, печінковий
+Niere, die, Noun, нирка, filtern, фільтрувати, nierig, нирковий
+Magen, der, Noun, шлунок, verdauen, перетравлювати, magengebunden, шлунковий
+Darm, der, Noun, кишечник, aufnehmen, всмоктувати, darmartig, кишечний
+Bauch, der, Noun, живіт, dehnen, розтягувати, bauchig, животний
+Harnblase, die, Noun, сечовий міхур, speichern, зберігати, harnblasig, сечовий
+Zwerchfell, das, Noun, діафрагма, atmen, дихати, zwerchfellartig, діафрагмовий
+Haut, die, Noun, шкіра, schützen, захищати, hautig, шкірний
+Schweißdrüse, die, Noun, потова залоза, absondern, виділяти, schweißdrüsig, потовий
+Talgdrüse, die, Noun, сальна залоза, produzieren, виробляти, talgdrüsig, сальний
+Fettgewebe, das, Noun, жирові тканини, speichern, зберігати, fettgewebig, жировий
+Skelett, das, Noun, скелет, stützen, підтримувати, skelettartig, скелетний
+Gelenk, das, Noun, суглоб, bewegen, рухати, gelenkig, суглобний
+Knorpel, der, Noun, хрящ, polstern, амортизувати, knorpelig, хрящовий
+Bänder, die, Noun, зв’язки, stabilisieren, стабілізувати, bandig, зв'язковий
+
+
